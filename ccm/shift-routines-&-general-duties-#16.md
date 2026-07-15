@@ -99,7 +99,7 @@ minimum 4th Class Power Engineer until the issue is resolved.
 
 - **Reporting Abnormalities:** All abnormal conditions (leaks, excessive
   equipment vibration, etc.) must be made safe, logged, and **emailed to the
-  Chief Engineer**[cite: 3619, 3620].
+  Chief Engineer**.
 
 - **Alarm Response Timing:** Steam header pressure decays rapidly. An outage of
   just 5 minutes can cause a loss of service for critical facilities. Your alarm
