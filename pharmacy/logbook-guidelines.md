@@ -107,11 +107,11 @@ $$\text{Timestamp} \rightarrow \text{Equipment Identifier} \rightarrow \text{Sta
 
 #### Example Operational Entry:
 
-> 10:15 hrs. (_Time_) Chem-Aqua Representative (_Identifier_) on-site for
-> monthly service check. (_Event_) Assisted with raw and treated water sampling
+> 10:15 hrs. _(Time)_ Chem-Aqua Representative _(Identifier)_ on-site for
+> monthly service check. _(Event)_ Assisted with raw and treated water sampling
 > on operating Boilers 3 and 5. Replaced reagent bottles in testing cabinet.
-> (_Action Taken_) 11:00 hrs. Chem-Aqua representative off-site. Water testing
-> station clean and restocked. (_Final Status_)
+> _(Action Taken)_ 11:00 hrs. Chem-Aqua representative off-site. Water testing
+> station clean and restocked. _(Final Status)_
 
 ### Template B: Diagnostic & Repair (Symptom-Cause-Resolution)
 
