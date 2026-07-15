@@ -15,74 +15,74 @@ smell and hearing) to perform these daily checks.
 
 ## Phase 1: Steam Boiler Room Walkthrough
 
-- ##### [ ] Review the Log Book:
+- #### [ ] Review the Log Book:
 
 Check past entries at the desk by the DDC station for equipment issues, lockouts
 or water test trends.
 
-- ##### [ ] Preliminary check:
+- #### [ ] Preliminary check:
 
 Verify water levels and pressures of the operating boiler.
 
-- ##### [ ] Check the hotwell:
+- #### [ ] Check the hotwell:
 
 Ensure feedwater level is at least 50% in the hotwell gauge glass.
 
-- ##### [ ] Combustion/Burner health:
+- #### [ ] Combustion/Burner health:
 
 Verify stable flame, no abnormal cycling, and normal burner response/modulation.
 
-- ##### [ ] Gas train pressure check:
+- #### [ ] Gas train pressure check:
 
 Confirm readings are within normal operating range.
 
-- ##### [ ] Scan for anomalies:
+- #### [ ] Scan for anomalies:
 
 Look for leaks, and feel/listen to motor-driven equipment for high temperature
 or unusual vibration.
 
-- ##### [ ] Check DDC:
+- #### [ ] Check DDC:
 
 Scan the monitoring system for any alarms or abnormal readings.
 
-- ##### [ ] Log & Test:
+- #### [ ] Log & Test:
 
 Take required readings, perform feedwater chemical tests, and perform manual
 blowdowns on boilers and gauge glasses.
 
 ## Phase 2: Auxiliary Systems Walkthrough
 
-- ##### [ ] Upper Mezzanine:
+- #### [ ] Upper Mezzanine:
 
 Check the heat pump, compressed air, and vacuum/suction systems. Verify cooling
 tower chemical supplies.
 
-- ##### [ ] Cooling Tower & Fire Systems:
+- #### [ ] Cooling Tower & Fire Systems:
 
 Check the MCC panel for tripped breakers, inspect the cooling tower pumps for
 leaks/vibrations, visually verify fire system pressures, and ensure the raw
 water line/backflow preventer are not leaking.
 
-- ##### [ ] Hot Water Boiler Room:
+- #### [ ] Hot Water Boiler Room:
 
 Confirm hot-water boilers are operating normally with no error messages or
 system leaks.
 
-- ##### [ ] Emergency Generator Room:
+- #### [ ] Emergency Generator Room:
 
 Inspect the 660 kW generator for fuel, oil, or coolant leaks, and check the
 starter-motor battery banks for corrosion or wear.
 
-- ##### [ ] MCC quick pass:
+- #### [ ] MCC quick pass:
 
 No fault indicators, no unusual heat/smell, panel doors closed and area
 dry/clean.
 
-- ##### [ ] Housekeeping:
+- #### [ ] Housekeeping:
 
 No trip/slip hazards, drains clear, and access to safety equipment unobstructed.
 
-- ##### [ ] Emergency readiness:
+- #### [ ] Emergency readiness:
 
 Fire extinguisher seal/tag in place, spill kit stocked, and emergency stop
 locations accessible.
