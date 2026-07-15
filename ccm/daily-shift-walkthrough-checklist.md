@@ -76,10 +76,10 @@ smell and hearing) to perform these daily checks.
 
 ### Shift Handoff Notes
 
-- ## Outstanding issues requiring follow-up:
+- #### Outstanding issues requiring follow-up:
 
-- ## Temporary controls in place:
+- #### Temporary controls in place:
 
-- ## Notifications made (who/time):
+- #### Notifications made (who/time):
 
-- ## Work orders/requests submitted:
+- #### Work orders/requests submitted:
