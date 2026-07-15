@@ -45,9 +45,8 @@ July 15, 2026 | Day Shift (07:00 - 19:00 hrs) | Crew #31S
 > #XXXXXX).
 >
 > Initial Plant Status: Boilers 3 and 5 in automatic remote modulation under
-> Hawk Master control; Boilers 4 and 6 in cold standby[cite: 375, 725, 883].
-> FWT-2 at 65% level, operating temperature at 172°F[cite: 462, 1542]. Water
-> Softener online, normal operation[cite: 416].
+> Hawk Master control; Boilers 4 and 6 in cold standby. FWT-2 at 65% level,
+> operating temperature at 172°F. Water Softener online, normal operation.
 
 ### 2. End-of-Shift Sign-off
 
