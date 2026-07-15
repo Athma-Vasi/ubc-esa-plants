@@ -13,6 +13,8 @@ smell and hearing) to perform these daily checks.
 - [ ] Review active permits and LOTO boundaries before entering work areas.
 - [ ] Confirm emergency egress routes are clear before starting rounds.
 
+---
+
 ## Phase 1: Steam Boiler Room Walkthrough
 
 - #### [ ] Review the Log Book:
@@ -49,6 +51,8 @@ Scan the monitoring system for any alarms or abnormal readings.
 
 Take required readings, perform feedwater chemical tests, and perform manual
 blowdowns on boilers and gauge glasses.
+
+---
 
 ## Phase 2: Auxiliary Systems Walkthrough
 
@@ -87,6 +91,8 @@ No trip/slip hazards, drains clear, and access to safety equipment unobstructed.
 Fire extinguisher seal/tag in place, spill kit stocked, and emergency stop
 locations accessible.
 
+---
+
 ## Phase 3: Escalation and Handoff
 
 ### Escalation Triggers (Call/Notify Immediately)
@@ -97,12 +103,38 @@ locations accessible.
 - [ ] Fire system pressure abnormal or emergency system unavailable.
 - [ ] Generator support systems unsafe or degraded.
 
+---
+
 ### Shift Handoff Notes
 
 - #### Outstanding issues requiring follow-up:
 
+---
+
+---
+
+---
+
 - #### Temporary controls in place:
+
+---
+
+---
+
+---
 
 - #### Notifications made (who/time):
 
+---
+
+---
+
+---
+
 - #### Work orders/requests submitted:
+
+---
+
+---
+
+---
