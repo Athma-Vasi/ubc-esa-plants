@@ -4,6 +4,8 @@ The following unified, comprehensive logbook guidelines combine UBC Pharmacy
 Plant requirements with modern industrial operations standards (including ALCOA
 Data Integrity principles and the Symptom-Cause-Resolution format).
 
+---
+
 ## 📘 Part 1: Core Professional & Legal Standards
 
 The logbook is a legal business record and a critical safety document. It must
@@ -22,6 +24,8 @@ provide a flawless chronological audit trail of the plant's history.
 
 - **ALCOA Data Integrity:** All entries must be Legible, Contemporaneous
   (recorded immediately at the time of the event), Original, and Accurate.
+
+---
 
 ## 🕒 Part 2: Shift Structure & Timeline (ALCOA Flow)
 
@@ -88,6 +92,8 @@ following events:
 - **Quench Verification:** Note that the blowdown tank discharge to the sewer
   was verified to be below the 65°C limit (normally targeting 60°C or lower).
 
+---
+
 ## ✍️ Part 4: The Structured Entry Templates
 
 To keep logs consistent across all shifts, use these two standardized entry
@@ -101,11 +107,11 @@ $$\text{Timestamp} \rightarrow \text{Equipment Identifier} \rightarrow \text{Sta
 
 #### Example Operational Entry:
 
-> 10:15 hrs. (Time) Chem-Aqua Representative (Identifier) on-site for monthly
-> service check. (Event) Assisted with raw and treated water sampling on
-> operating Boilers 3 and 5. Replaced reagent bottles in testing cabinet.
-> (Action Taken) 11:00 hrs. Chem-Aqua representative off-site. Water testing
-> station clean and restocked. (Final Status)
+> 10:15 hrs. (_Time_) Chem-Aqua Representative (_Identifier_) on-site for
+> monthly service check. (_Event_) Assisted with raw and treated water sampling
+> on operating Boilers 3 and 5. Replaced reagent bottles in testing cabinet.
+> (_Action Taken_) 11:00 hrs. Chem-Aqua representative off-site. Water testing
+> station clean and restocked. (_Final Status_)
 
 ### Template B: Diagnostic & Repair (Symptom-Cause-Resolution)
 
