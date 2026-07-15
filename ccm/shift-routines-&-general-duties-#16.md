@@ -4,6 +4,8 @@ Your basic "rule of thumb" is that the entire mechanical and boiler room is your
 "realm". You must assess the plant **twice per 12-hour shift**, with all
 anomalies reported in your log book entry.
 
+---
+
 ## 📅 Shift Assessment Schedule
 
 - **First Assessment:** Must commence **within the first hour of the shift**.
@@ -50,6 +52,8 @@ anomalies reported in your log book entry.
 - [ ] **Vents & Leaks**: Check for abnormal steam discharge from the steam
       vents, and scan for leaks in the plant.
 
+---
+
 ## 🔧 Once-Per-Shift Maintenance Tasks
 
 - [ ] Blowdown the hotwel gauge glass.
@@ -64,6 +68,8 @@ anomalies reported in your log book entry.
       compound.
 - [ ] Walkthrough and assess HVAC systems, cooling tower, hot water systems, DHW
       heat exchangers, air compressors, and steam traps.
+
+---
 
 ## 📡 Crucial Remote Monitoring Check (Must do!)
 
@@ -82,6 +88,8 @@ To ensure the plant does not have to be manned 24/7:
 
 If any of these three remote checks fail, the plant **MUST** be manned 24/7 by a
 minimum 4th Class Power Engineer until the issue is resolved.
+
+---
 
 ## ⚠️ Essential Safety & Escalation Rules
 
